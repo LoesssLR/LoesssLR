@@ -75,8 +75,10 @@
 <h3 align="center">🐍 Contributions</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LoesssLR/LoesssLR/output/github-contribution-grid-snake-dark.svg?palette=github-dark&period=1y" />
+  <img src="https://raw.githubusercontent.com/LoesssLR/LoesssLR/output/github-contribution-grid-snake-dark.svg?palette=github-dark&period=1y" width="750" />
 </p>
+
+<p align="center"><i>🐍 Snake: decorative visual representation of my GitHub activity over the past year.</i></p>
 
 ---
 
