@@ -72,11 +72,11 @@
 
 ---
 
-<h3 align="center">🐍 Contributions. </h3>
+<h3 align="center">🐍 Contributions</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LoesssLR/LoesssLR/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LoesssLR/LoesssLR/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</p>
 
 ---
 
