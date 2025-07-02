@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro López</h1>
+<br>
 <h3 align="center">IT Engineering Student at UTN (Costa Rica)</h3>
 
 ---
@@ -10,7 +11,6 @@
 </p>
 
 ---
-<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LoesssLR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=es&hide_border=false" height="150" />
@@ -18,7 +18,6 @@
 </div>
 
 ---
-<br>
 
 <h3 align="center">🧑‍💻 Programming languages. </h3>
 
@@ -37,7 +36,6 @@
 </div>
 
 ---
-<br>
 
 <h3 align="center">🗄️ Databases. </h3>
 
@@ -52,7 +50,6 @@
 </div>
 
 ---
-<br>
 
 <h3 align="center">📬 Contact and social media. </h3>
 
@@ -72,7 +69,6 @@
 </div>
 
 ---
-<br>
 
 <h3 align="center">🐍 Contributions. </h3>
 
@@ -81,6 +77,5 @@
 </div>
 
 ---
-<br>
 
 <p align="center"><i>"No dreamer is too small and no dream is too big."</i></p>
