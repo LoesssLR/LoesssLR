@@ -75,7 +75,7 @@
 <h3 align="center">🐍 Contributions</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LoesssLR/LoesssLR/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img src="https://raw.githubusercontent.com/LoesssLR/LoesssLR/output/github-contribution-grid-snake-dark.svg?palette=github-dark&period=1y" />
 </p>
 
 ---
