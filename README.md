@@ -53,19 +53,19 @@
 <h3 align="center">📬 Contact and social media. </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alejandro-l%C3%B3pez-reyes-3273742b0/" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-l%C3%B3pez-reyes-3273742b0/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   &nbsp;
-  <a href="mailto:luisalel1132@gmail.com">
+  <a href="mailto:luisalel1132@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
   &nbsp;
-  <a href="https://discordapp.com/users/alejandrolr03">
+  <a href="https://discordapp.com/users/alejandrolr03" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/luisale___/">
+  <a href="https://www.instagram.com/luisale___/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
