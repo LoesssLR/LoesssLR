@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alejandro López</h1>
-<br>
 <h3 align="center">IT Engineering Student at UTN (Costa Rica)</h3>
 
 ---
