@@ -13,10 +13,10 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoesssLR&count_private=true&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&hide_rank=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LoesssLR&count_private=true&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&hide_rank=false" />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoesssLR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesssLR&layout=donut&langs_count=6&theme=radical&hide_border=false" height="150" />
 </div>
 
 ---
