@@ -20,7 +20,7 @@
   <br><br>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesssLR&layout=donut&langs_count=6&theme=tokyonight&hide_border=false"
-    width="425"
+    width="390"   
   />
 </div>
 
