@@ -1,7 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
-<h2 align="center">I'm Alejandro López</h2>
-<br>
-<h3 align="center">IT Engineering Student at UTN (Costa Rica)</h3>
+<h1 align="center">Hi there... 👋</h1>
+<h2 align="center">I'm Alejandro López 💻</h2>
+<h3 align="center">IT Engineering Student at UTN (Costa Rica) 🎓</h3>
 
 ---
 
