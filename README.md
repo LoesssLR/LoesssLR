@@ -7,16 +7,16 @@
 <p align="center">
   🌟 Full Stack Developer, passionate about learning and continuous improvement through hands-on experience.  
   <br>
-  💻 2025 Goal: Build impactful projects and expand my portfolio.
+  🎯 2025 Goal: Build impactful projects and expand my portfolio.
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoesssLR&count_private=true&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&hide_rank=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LoesssLR&count_private=true&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&hide_rank=false" />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoesssLR&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoesssLR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" />
 </div>
 
 ---
