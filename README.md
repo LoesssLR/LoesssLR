@@ -20,7 +20,7 @@
   <br><br>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesssLR&layout=donut&langs_count=6&theme=tokyonight&hide_border=false"
-    width="325"   
+    width="360"   
   />
 </div>
 
@@ -77,8 +77,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/API--REST-02569B?style=for-the-badge&logo=swagger&logoColor=white" alt="API-REST"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </div>
 
 ---
