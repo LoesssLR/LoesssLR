@@ -2,9 +2,7 @@
 <h2 align="center">I'm Alejandro López. 💻</h2>
 <h3 align="center">IT Engineering Student at UTN (Costa Rica). 🎓</h3>
 
-<p align="center">
-  <img src="https://svgur.com/i/16Fy.svg" width="80%" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=1000&lines=%3E+I'm+a+Full+Stack+Developer.">
@@ -16,9 +14,7 @@
   🎯 2025 Goal: Build impactful projects and expand my portfolio.
 </p>
 
-<p align="center">
-  <img src="https://svgur.com/i/16Fy.svg" width="80%" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">🚀 Tech Stack.</h3>
 
@@ -118,6 +114,10 @@
   
   <a href="https://www.linkedin.com/in/alejandro-l%C3%B3pez-reyes-3273742b0/" target="_blank">
     <img align="center" alt="Alejandro López | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+
+   <a href="https://www.instagram.com/luisale___/" target="_blank">
+    <img align="center" alt="Alejandro López | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 </p> 
 
