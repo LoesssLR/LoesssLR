@@ -2,7 +2,11 @@
 <h2 align="center">I'm Alejandro López 💻</h2>
 <h3 align="center">IT Engineering Student at UTN (Costa Rica) 🎓</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   🌟 Full Stack Developer, passionate about learning and continuous improvement through hands-on experience.  
@@ -10,7 +14,7 @@
   🎯 2025 Goal: Build impactful projects and expand my portfolio.
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img
@@ -24,7 +28,7 @@
   />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">🚀 Tech Stack</h3>
 
@@ -81,29 +85,33 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">📬 Contact and social media. </h3>
+<h3 align="center">📬 Contact and social media</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alejandro-l%C3%B3pez-reyes-3273742b0/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  &nbsp;
-  <a href="mailto:luisalel1132@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://discordapp.com/users/alejandrolr03" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/luisale___/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:luisalel1132@gmail.com" target="_blank">
+    <img align="center" alt="Alejandro López | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/alejandro-l%C3%B3pez-reyes-3273742b0/" target="_blank">
+    <img align="center" alt="Alejandro López | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://discordapp.com/users/alejandrolr03" target="_blank">
+    <img align="center" alt="Alejandro López | Discord" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/luisale___/" target="_blank">
+    <img align="center" alt="Alejandro López | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://github.com/LoesssLR" target="_blank">
+    <img align="center" alt="Alejandro López | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+</p> 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">🐍 Contributions</h3>
 
@@ -113,4 +121,4 @@
 
 <p align="center"><i>Decorative visual representation of my GitHub activity over the past year.</i></p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
