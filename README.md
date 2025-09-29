@@ -2,7 +2,7 @@
 <h2 align="center">I'm Alejandro López. 💻</h2>
 <h3 align="center">IT Engineering Student at UTN (Costa Rica). 🎓</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: 1px solid #39FF14; width: 80%; margin: 20px auto; border-radius: 5px;">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=1000&lines=%3E+I'm+a+Full+Stack+Developer.">
@@ -14,7 +14,7 @@
   🎯 2025 Goal: Build impactful projects and expand my portfolio.
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: 1px solid #39FF14; width: 80%; margin: 20px auto; border-radius: 5px;">
 
 <h3 align="center">🚀 Tech Stack.</h3>
 
