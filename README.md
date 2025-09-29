@@ -9,26 +9,10 @@
 </p>
 
 <p align="center">
-  🌟 Passionate about learning and continuous improvement through hands-on experience.  
+  🌟 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐢𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐡𝐚𝐧𝐝𝐬-𝐨𝐧 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞. 
   <br>
-  🎯 2025 Goal: Build impactful projects and expand my portfolio.
+  🎯 𝟐𝟎𝟐𝟓 𝐆𝐨𝐚𝐥: 𝐁𝐮𝐢𝐥𝐝 𝐢𝐦𝐩𝐚𝐜𝐭𝐟𝐮𝐥 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐞𝐱𝐩𝐚𝐧𝐝 𝐦𝐲 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨.
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LoesssLR&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&rank_icon=github"
-    width="425"
-  />
-  <br><br>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesssLR&layout=donut&langs_count=6&theme=tokyonight&hide_border=false"
-    width="360"   
-  />
-</div>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -87,9 +71,37 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">📊 GitHub Contributions</h3>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LoesssLR&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&rank_icon=github"
+    width="425"
+  />
+  <br><br>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesssLR&layout=donut&langs_count=6&theme=tokyonight&hide_border=false"
+    width="360"   
+  />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">🐍 Representation</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LoesssLR/LoesssLR/output/github-contribution-grid-snake-dark.svg?palette=github-dark&period=1y" width="750" />
+</p>
+
+<p align="center"><i>Decorative visual representation of my GitHub activity over the past year.</i></p>
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 <h3 align="center">📬 Contact and social media</h3>
 
@@ -114,15 +126,5 @@
     <img align="center" alt="Alejandro López | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 </p> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">🐍 Contributions</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LoesssLR/LoesssLR/output/github-contribution-grid-snake-dark.svg?palette=github-dark&period=1y" width="750" />
-</p>
-
-<p align="center"><i>Decorative visual representation of my GitHub activity over the past year.</i></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
