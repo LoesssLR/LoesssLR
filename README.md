@@ -3,13 +3,13 @@
 <h3 align="center">IT Engineering Student at UTN (Costa Rica) 🎓</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=700&lines=%3E+I'm+a+Full+Stack+Developer.">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  🌟 Full Stack Developer, passionate about learning and continuous improvement through hands-on experience.  
+  🌟 Passionate about learning and continuous improvement through hands-on experience.  
   <br>
   🎯 2025 Goal: Build impactful projects and expand my portfolio.
 </p>
@@ -27,6 +27,8 @@
     width="360"   
   />
 </div>
+
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -84,6 +86,8 @@
   <img src="https://img.shields.io/badge/API--REST-02569B?style=for-the-badge&logo=swagger&logoColor=white" alt="API-REST"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </div>
+
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
