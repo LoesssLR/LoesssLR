@@ -3,7 +3,7 @@
 <h3 align="center">IT Engineering Student at UTN (Costa Rica). 🎓</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LoesssLR/LoesssLR/main/assets/green-divider.svg" width="100%" />
+  <img src="https://svgur.com/i/16Fy.svg" width="80%" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LoesssLR/LoesssLR/main/assets/green-divider.svg" width="100%" />
+  <img src="https://svgur.com/i/16Fy.svg" width="80%" />
 </p>
 
 <h3 align="center">🚀 Tech Stack.</h3>
