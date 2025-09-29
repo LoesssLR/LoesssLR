@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  🌟 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐢𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐡𝐚𝐧𝐝𝐬-𝐨𝐧 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞. 
+  🌟 Passionate about learning and continuous improvement through hands-on experience.  
   <br>
-  🎯 𝟐𝟎𝟐𝟓 𝐆𝐨𝐚𝐥: 𝐁𝐮𝐢𝐥𝐝 𝐢𝐦𝐩𝐚𝐜𝐭𝐟𝐮𝐥 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐞𝐱𝐩𝐚𝐧𝐝 𝐦𝐲 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨.
+  🎯 2025 Goal: Build impactful projects and expand my portfolio.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -105,7 +105,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">📬 Contact and social media</h3>
+<h3 align="center">📬 Contact and social media.</h3>
 
 <p align="center">
   <a href="mailto:luisalel1132@gmail.com" target="_blank">
@@ -114,18 +114,6 @@
   
   <a href="https://www.linkedin.com/in/alejandro-l%C3%B3pez-reyes-3273742b0/" target="_blank">
     <img align="center" alt="Alejandro López | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://discordapp.com/users/alejandrolr03" target="_blank">
-    <img align="center" alt="Alejandro López | Discord" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/luisale___/" target="_blank">
-    <img align="center" alt="Alejandro López | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://github.com/LoesssLR" target="_blank">
-    <img align="center" alt="Alejandro López | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 </p> 
 
