@@ -2,11 +2,11 @@
 <h2 align="center">I'm Alejandro López 💻</h2>
 <h3 align="center">IT Engineering Student at UTN (Costa Rica) 🎓</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=700&lines=%3E+I'm+a+Full+Stack+Developer.">
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=1000&lines=%3E+I'm+a+Full+Stack+Developer.">
+</p>
 
 <p align="center">
   🌟 Passionate about learning and continuous improvement through hands-on experience.  
