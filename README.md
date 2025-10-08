@@ -17,29 +17,23 @@
 </p>
 
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="50%" style="vertical-align: top;">
-                <h3>📄 CV.</h3>
-                <p align="center">
-                    <a href="ruta/a/tu-cv.pdf" download></a>
-                        <img src="https://img.shields.io/badge/Descargar%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
-                    </a>
-                </p>
-            </td>
-            <td align="center" width="50%" style="vertical-align: top;">
-                <h3>🌟 Portfolio.</h3>
-                <p align="center"></p>
-                    <a href="https://tuportafolio.com" target="_blank">
-                        <img src="https://img.shields.io/badge/Ver%20Portafolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-                    </a>
-                </p>
-                <p align="center">
-                    <em>⚒️ I'm currently developing it.</em>
-                </p>
-            </td>
-        </tr>
-    </table>
+    <h3>📄 CV.</h3>
+    <p align="center">
+        <a href="ruta/a/tu-cv.pdf" download></a>
+            <img src="https://img.shields.io/badge/Descargar%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
+        </a>
+    </p>
+</div>
+<div align="center">
+    <h3>💼 Portfolio.</h3>
+    <p align="center">
+        <a href="https://tuportafolio.com" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20Portafolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+        </a>
+    </p>
+    <p align="center">
+        <em>⚒️ I'm currently developing it.</em>
+    </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
