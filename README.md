@@ -16,6 +16,34 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h3 align="center">📄 About me.</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🧾 Currículum Vitae</h3>
+        <p>
+          <a href="ruta/a/tu-cv.pdf" download>
+            <img src="https://img.shields.io/badge/Descargar%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"/>
+          </a>
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🌟 Portafolio</h3>
+        <p>
+          <a href="https://tuportafolio.com" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20Portafolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/>
+          </a>
+        </p>
+        <p><em>🚧 Actualmente sigo trabajando en su desarrollo...</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">🚀 Tech Stack.</h3>
 
 <div align="center">
