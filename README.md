@@ -17,35 +17,31 @@
 </p>
 
 <div align="center">
-  <h2>📄 Sobre Mí</h2>
-  <table style="width:80%; border-collapse: collapse; text-align: center;">
+  <table style="width:80%; border-collapse:collapse; text-align:center;">
     <tr>
-      <!-- Columna izquierda: CV -->
-      <td style="width:50%; border:1px solid #333; padding:20px; display:flex; flex-direction:column; justify-content:space-between; align-items:center; height:200px;">
-        <div style="align-self:flex-start;">
-          <h3>🧾 Currículum Vitae</h3>
-        </div>
-        <div style="flex-grow:1; display:flex; justify-content:center; align-items:center;">
-          <a href="ruta/a/tu-cv.pdf" download>
-            <img src="https://img.shields.io/badge/Descargar%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"/>
-          </a>
-        </div>
-        <div></div> <!-- vacío para mantener estructura -->
+      <td style="width:50%; border:1px solid #333; padding:10px;">
+        <h3>🧾 CV.</h3>
       </td>
-
-      <!-- Columna derecha: Portafolio -->
-      <td style="width:50%; border:1px solid #333; padding:20px; display:flex; flex-direction:column; justify-content:space-between; align-items:center; height:200px;">
-        <div style="align-self:flex-start;">
-          <h3>🌟 Portafolio</h3>
-        </div>
-        <div style="flex-grow:1; display:flex; justify-content:center; align-items:center;">
-          <a href="https://tuportafolio.com" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20Portafolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/>
-          </a>
-        </div>
-        <div style="align-self:center;">
-          <em>⚒️ Actualmente sigo trabajando en su desarrollo...</em>
-        </div>
+      <td style="width:50%; border:1px solid #333; padding:10px;">
+        <h3>🌟 Portfolio.</h3>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #333; padding:20px;">
+        <a href="ruta/a/tu-cv.pdf" download>
+          <img src="https://img.shields.io/badge/Descargar%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
+        </a>
+      </td>
+      <td style="border:1px solid #333; padding:20px;">
+        <a href="https://tuportafolio.com" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Portafolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #333; padding:10px;"></td>
+      <td style="border:1px solid #333; padding:10px;">
+        <em>⚒️ I´m currently developing it.</em>
       </td>
     </tr>
   </table>
