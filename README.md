@@ -4,6 +4,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h3 align="center">📄 About me.</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=1000&lines=%3E+I'm+a+Full+Stack+Developer.">
 </p>
@@ -14,29 +16,36 @@
   🎯 2025 Goal: Build impactful projects and expand my portfolio.
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">📄 About me.</h3>
-
 <div align="center">
-  <table>
+  <h2>📄 Sobre Mí</h2>
+  <table style="width:80%; border-collapse: collapse; text-align: center;">
     <tr>
-      <td align="center" width="50%">
-        <h3>🧾 Currículum Vitae</h3>
-        <p>
+      <!-- Columna izquierda: CV -->
+      <td style="width:50%; border:1px solid #333; padding:20px; display:flex; flex-direction:column; justify-content:space-between; align-items:center; height:200px;">
+        <div style="align-self:flex-start;">
+          <h3>🧾 Currículum Vitae</h3>
+        </div>
+        <div style="flex-grow:1; display:flex; justify-content:center; align-items:center;">
           <a href="ruta/a/tu-cv.pdf" download>
             <img src="https://img.shields.io/badge/Descargar%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"/>
           </a>
-        </p>
+        </div>
+        <div></div> <!-- vacío para mantener estructura -->
       </td>
-      <td align="center" width="50%">
-        <h3>🌟 Portafolio</h3>
-        <p>
+
+      <!-- Columna derecha: Portafolio -->
+      <td style="width:50%; border:1px solid #333; padding:20px; display:flex; flex-direction:column; justify-content:space-between; align-items:center; height:200px;">
+        <div style="align-self:flex-start;">
+          <h3>🌟 Portafolio</h3>
+        </div>
+        <div style="flex-grow:1; display:flex; justify-content:center; align-items:center;">
           <a href="https://tuportafolio.com" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Portafolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/>
           </a>
-        </p>
-        <p><em>🚧 Actualmente sigo trabajando en su desarrollo...</em></p>
+        </div>
+        <div style="align-self:center;">
+          <em>⚒️ Actualmente sigo trabajando en su desarrollo...</em>
+        </div>
       </td>
     </tr>
   </table>
