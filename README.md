@@ -17,31 +17,31 @@
 </p>
 
 <div align="center">
-  <table style="width:80%; border-collapse:collapse; text-align:center;">
+  <table>
     <tr>
-      <td style="width:50%; border:1px solid #333; padding:10px; text-align:center; vertical-align:middle;">
+      <td>
         <h3>📄 CV.</h3>
       </td>
-      <td style="width:50%; border:1px solid #333; padding:10px; text-align:center; vertical-align:middle;">
+      <td>
         <h3>🌟 Portfolio.</h3>
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
+      <td>
         <a href="ruta/a/tu-cv.pdf" download>
           <img src="https://img.shields.io/badge/Descargar%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
         </a>
       </td>
-      <td style="border:1px solid #333; padding:20px; text-align:center; vertical-align:middle;">
+      <td>
         <a href="https://tuportafolio.com" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Portafolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
         </a>
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #333; padding:10px; text-align:center; vertical-align:middle;"></td>
-      <td style="border:1px solid #333; padding:10px; text-align:center; vertical-align:middle;">
-        <em>⚒️ I´m currently developing it.</em>
+      <td></td>
+      <td>
+        <em>⚒️ I’m currently developing it.</em>
       </td>
     </tr>
   </table>
