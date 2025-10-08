@@ -19,21 +19,22 @@
 <div align="center">
     <table>
         <tr>
-            <td align="center" width="50%">
+            <td align="center" width="50%" style="vertical-align: top;">
                 <h3>📄 CV.</h3>
-                <p>
+                <p align="center">
                     <a href="ruta/a/tu-cv.pdf" download></a>
                         <img src="https://img.shields.io/badge/Descargar%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
                     </a>
                 </p>
             </td>
-            <td align="center" width="50%">
+            <td align="center" width="50%" style="vertical-align: top;">
                 <h3>🌟 Portfolio.</h3>
-                <p>
+                <p align="center"></p>
                     <a href="https://tuportafolio.com" target="_blank">
                         <img src="https://img.shields.io/badge/Ver%20Portafolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
                     </a>
-                    <br>
+                </p>
+                <p align="center">
                     <em>⚒️ I'm currently developing it.</em>
                 </p>
             </td>
