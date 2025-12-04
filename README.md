@@ -97,17 +97,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">📊 GitHub Contributions.</h3>
+<h3 align="center">📊 GitHub Contributions</h3>
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LoesssLR&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=LoesssLR&show_icons=true&theme=tokyonight&cache_seconds=1800"
     width="425"
   />
   <br><br>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesssLR&layout=donut&langs_count=6&theme=tokyonight&hide_border=false"
-    width="360"   
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesssLR&layout=compact&theme=tokyonight&cache_seconds=1800"
+    width="360"
   />
 </div>
 
