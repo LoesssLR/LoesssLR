@@ -19,20 +19,17 @@
 <div align="center">
     <h3>📄 CV.</h3>
     <p align="center">
-        <a href="ruta/a/tu-cv.pdf" download></a>
-            <img src="https://img.shields.io/badge/Descargar%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
+        <a href="https://youtu.be/JMoA2fwmJuI?si=KUzpJw9yDcZ62gVm" target="_blank">
+          <img src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
         </a>
     </p>
 </div>
 <div align="center">
     <h3>💼 Portfolio.</h3>
     <p align="center">
-        <a href="https://tuportafolio.com" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20Portafolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+        <a href="https://youtu.be/JMoA2fwmJuI?si=KUzpJw9yDcZ62gVm" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Portfolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
         </a>
-    </p>
-    <p align="center">
-        <em>⚒️ I'm currently developing it.</em>
     </p>
 </div>
 
@@ -50,6 +47,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
       </p>
     </td>
     <td align="center" width="50%">
@@ -91,6 +89,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/API--REST-02569B?style=for-the-badge&logo=swagger&logoColor=white" alt="API-REST"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </div>
 
 <br>
@@ -134,7 +133,7 @@
     <img align="center" alt="Alejandro López | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/alejandro-l%C3%B3pez-reyes-3273742b0/" target="_blank">
+  <a href="https://www.linkedin.com/in/alelopezreyes" target="_blank">
     <img align="center" alt="Alejandro López | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
