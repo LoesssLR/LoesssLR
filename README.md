@@ -120,12 +120,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">📊 GitHub Contributions</h3>
+<h3 align="center">📊 GitHub Metrics</h3>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LoesssLR&show_icons=true&theme=tokyonight&cache_seconds=1800" width="425" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesssLR&layout=compact&theme=tokyonight&cache_seconds=1800" width="360" />
+    <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br>
