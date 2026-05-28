@@ -1,6 +1,8 @@
 <h1 align="center">Hi there... 👋</h1>
 <h2 align="center">I'm Alejandro López. 💻</h2>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">👨‍💼 About me.</h3>
 
 <p align="center">
@@ -89,13 +91,17 @@
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </div>
 
-<br><br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">💼 Proyectos destacados.</h3>
 
 <ul>
+    <li>
+        <a href="URL_DEL_REPOSITORIO" target="_blank"><strong>NOMBRE DEL PROYECTO</strong></a><br>
+        DESCRIPCIÓN BREVE DEL PROYECTO, TECNOLOGÍAS USADAS Y FUNCIONALIDADES PRINCIPALES. 
+    <br>
     <li>
         <a href="URL_DEL_REPOSITORIO" target="_blank"><strong>NOMBRE DEL PROYECTO</strong></a><br>
         DESCRIPCIÓN BREVE DEL PROYECTO, TECNOLOGÍAS USADAS Y FUNCIONALIDADES PRINCIPALES. 
