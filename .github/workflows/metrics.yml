@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 */12 * * *"}] # Se actualiza automáticamente cada 12 horas
+  workflow_dispatch: # Te permite ejecutarlo manualmente cuando quieras
+  push: {branches: ["master", "main"]} # Se ejecuta si editas tu rama principal
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Configuración principal
+          user: LoesssLR
+          template: classic
+          base: header, activity, community, repositories
+          
+          # Ajustes de zona horaria y archivo
+          config_timezone: America/Costa_Rica
+          filename: github-metrics.svg
