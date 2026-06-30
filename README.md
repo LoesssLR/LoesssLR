@@ -162,9 +162,9 @@
             <li>Vista pública responsiva (<code>/store</code>) optimizada para la interacción del cliente final.</li>
         </ul>
     </li>
-    <br><br>
+    <br>
     <li>
-        <h4><a href="https://texastrailerscrweb.web.app/" target="_blank">Texas Trailers CR - Digital Ecosystem</a></h4>
+        <h4><a href="https://texastrailerscrweb.web.app/" target="_blank">Texas Trailers CR - Digital Ecosystem ↗️</a></h4>
         <p><strong>Descripción:</strong> Solución digital integral e híbrida (B2C y B2B) para la modernización operativa
             de una empresa de importación y venta de remolques en Costa Rica. Centraliza el inventario físico y los
             canales digitales mediante una arquitectura desacoplada basada en el patrón BaaS (Backend-as-a-Service),
@@ -187,10 +187,9 @@
             <li>Autenticación segura de usuarios y almacenamiento estructurado de archivos multimedia en la nube.</li>
         </ul>
     </li>
-    <br><br>
+    <br>
     <li>
-        <h4><a href="https://kalova-898bf.web.app/" target="_blank">Kalova — Ecosistema Digital y Plataforma Web
-                Serverless</a></h4>
+        <h4><a href="https://kalova-898bf.web.app/" target="_blank">Kalova — Ecosistema Digital y Plataforma Web Serverless ↗️</a></h4>
         <p><strong>Descripción:</strong> Plataforma web híbrida a la medida diseñada para una marca de arte mural y
             productos decorativos. El sistema unifica de extremo a extremo un catálogo digital público enfocado en la
             conversión, un motor inteligente de cotización multi-step y un backoffice administrativo robusto para la
@@ -217,6 +216,8 @@
         </ul>
     </li>
 </ul>
+
+<br>
 
 <img src="divider.svg" width="100%">
 
