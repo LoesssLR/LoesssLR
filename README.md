@@ -129,6 +129,8 @@
         alt="VirtualBox" />
 </div>
 
+<br>
+
 <img src="divider.svg" width="100%">
 
 <h3 align="center">💼 Proyectos destacados.</h3>
@@ -221,13 +223,7 @@
 <h3 align="center">📊 GitHub Contributions</h3>
 
 <div align="center">
-    <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" style="max-width: 650px;" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=LoesssLR&show_icons=true&theme=tokyonight&cache_seconds=1800"
-        width="425" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoesssLR&layout=compact&theme=tokyonight&cache_seconds=1800"
-        width="360" />
+    <img src="github-metrics.svg" alt="GitHub Metrics" width="65%" style="max-width: 400px;" />
 </div>
 
 <br>
