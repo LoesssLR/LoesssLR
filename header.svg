@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="280" style="background: transparent;">
+  <defs>
+    <!-- Glow filter for neon terminal look -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Grid background pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#39FF14" stroke-width="0.5" opacity="0.05" />
+    </pattern>
+
+    <!-- CRT Scanlines pattern -->
+    <pattern id="scanlines" width="1000" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="1000" y2="0" stroke="#000" stroke-width="1.5" opacity="0.12" />
+    </pattern>
+
+    <style>
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .cursor-blink {
+        animation: blink 1.2s step-end infinite;
+      }
+      .term-text {
+        font-family: 'Fira Code', 'JetBrains Mono', 'Source Code Pro', Consolas, Monaco, monospace;
+      }
+    </style>
+  </defs>
+
+  <!-- Terminal Window Container (Top rounded, bottom square) -->
+  <path d="M 1,20 A 19,19 0 0,1 20,1 L 980,1 A 19,19 0 0,1 999,20 L 999,279 L 1,279 Z" fill="#07090e" stroke="#39FF14" stroke-width="1.5" opacity="0.95" />
+
+  <!-- Subtle grid overlay -->
+  <rect x="1.5" y="1.5" width="997" height="276" fill="url(#grid)" />
+
+  <!-- Terminal Header / Title Bar -->
+  <line x1="1" y1="45" x2="999" y2="45" stroke="#39FF14" stroke-width="1.2" opacity="0.3" />
+  
+  <!-- Window controls (Red, Yellow, Green dots) -->
+  <circle cx="30" cy="23" r="5.5" fill="#ff5f56" />
+  <circle cx="50" cy="23" r="5.5" fill="#ffbd2e" />
+  <circle cx="70" cy="23" r="5.5" fill="#27c93f" />
+
+  <!-- Terminal Title -->
+  <text x="500" y="28" fill="#39FF14" class="term-text" font-size="14" text-anchor="middle" opacity="0.6">alejandro@profile:~</text>
+
+  <!-- Terminal Window Body Content -->
+  
+  <!-- Line 1: cat welcome.txt -->
+  <text x="45" y="90" fill="#a6accd" class="term-text" font-size="18">
+    <tspan fill="#39FF14" opacity="0.7">$ </tspan>
+    <tspan fill="#e5c07b">cat </tspan>
+    <tspan fill="#98c379">welcome.txt</tspan>
+  </text>
+
+  <!-- Line 2: Hi there... 👋 -->
+  <text x="45" y="132" fill="#39FF14" class="term-text" font-size="28" font-weight="bold" filter="url(#glow)">
+    Hi there... 👋
+  </text>
+
+  <!-- Line 3: whoami -->
+  <text x="45" y="175" fill="#a6accd" class="term-text" font-size="18">
+    <tspan fill="#39FF14" opacity="0.7">$ </tspan>
+    <tspan fill="#56b6c2">whoami</tspan>
+  </text>
+
+  <!-- Line 4: I'm Alejandro López. 💻 -->
+  <text x="45" y="217" fill="#39FF14" class="term-text" font-size="28" font-weight="bold" filter="url(#glow)">
+    I'm Alejandro López. 💻
+  </text>
+
+  <!-- Line 5: Active cursor -->
+  <text x="45" y="255" fill="#a6accd" class="term-text" font-size="18">
+    <tspan fill="#39FF14" opacity="0.7">$ </tspan>
+    <tspan fill="#39FF14" class="cursor-blink">█</tspan>
+  </text>
+
+  <!-- CRT Scanlines overlay (makes it look like a monitor) -->
+  <rect x="2" y="46" width="996" height="231" fill="url(#scanlines)" pointer-events="none" />
+</svg>

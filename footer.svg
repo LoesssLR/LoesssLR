@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" width="100%" height="100" style="background: transparent;">
+  <defs>
+    <!-- Glow filter for neon terminal look -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- CRT Scanlines pattern -->
+    <pattern id="scanlines" width="1000" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="1000" y2="0" stroke="#000" stroke-width="1.5" opacity="0.1" />
+    </pattern>
+
+    <style>
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .cursor-blink {
+        animation: blink 1.2s step-end infinite;
+      }
+      .term-text {
+        font-family: 'Fira Code', 'JetBrains Mono', 'Source Code Pro', Consolas, Monaco, monospace;
+      }
+    </style>
+  </defs>
+
+  <!-- Terminal Footer Container (Top flat, bottom rounded) -->
+  <path d="M 1,0 L 999,0 L 999,79 A 19,19 0 0,1 980,98 L 20,98 A 19,19 0 0,1 1,79 Z" fill="#07090e" stroke="#39FF14" stroke-width="1.5" opacity="0.95" />
+
+  <!-- Footer Quote Text -->
+  <text x="500" y="56" fill="#39FF14" class="term-text" font-size="20" text-anchor="middle" filter="url(#glow)">
+    «La mejor manera de predecir el futuro es creándolo» — Peter Drucker. <tspan fill="#39FF14" class="cursor-blink">█</tspan>
+  </text>
+
+  <!-- CRT Scanlines overlay -->
+  <rect x="2" y="1" width="996" height="96" fill="url(#scanlines)" pointer-events="none" />
+</svg>
