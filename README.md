@@ -129,79 +129,100 @@
         alt="VirtualBox" />
 </div>
 
-
-<br><br><br>
+<img src="divider.svg" width="100%">
 
 <h3 align="center">💼 Proyectos destacados.</h3>
 
 <ul>
     <li>
-        <strong>Punto de Venta (POS) - Multiservicios Ases y Reyes</strong><br>
-        <strong>Descripción:</strong> Sistema web integral y full-stack diseñado bajo una arquitectura completamente
-        desacoplada para la automatización de flujos de venta, control logístico de inventarios y administración de
-        personal. El ecosistema separa limpiamente las responsabilidades mediante una API robusta orientada a objetos y
-        una interfaz de usuario fluida, reactiva y de alto rendimiento.<br>
-        <strong>Tecnologías usadas:</strong>
-        <em>Frontend:</em> React 19, TypeScript, Tailwind CSS, Vite, React Router DOM v7 y Axios.
-        <em>Backend & Base de Datos:</em> Node.js, Express, TypeScript, TypeORM, PostgreSQL, Docker y Docker
-        Compose.<br>
-        <strong>Funcionalidades principales:</strong>
-        Estructura modular basada en el patrón Controlador-Servicio para la gestión avanzada (CRUD) de productos,
-        categorías y empleados; módulo de autenticación segura mediante tokens JWT; sistema de bitácora y auditoría de
-        acciones; automatización interna en base de datos mediante triggers, procedimientos almacenados y vistas nativas
-        de PostgreSQL; carga masiva y lectura de reportes en Excel (`xlsx`); notificaciones automatizadas por correo
-        electrónico con Nodemailer; y una vista pública totalmente responsiva (`/store`) optimizada para la interacción
-        fluida del cliente final.
-        <br>
+        <h4>Punto de Venta (POS) - Multiservicios Ases y Reyes</h4>
+        <p><strong>Descripción:</strong> Sistema web integral y full-stack diseñado bajo una arquitectura completamente
+            desacoplada para la automatización de flujos de venta, control logístico de inventarios y administración de
+            personal. El ecosistema separa limpiamente las responsabilidades mediante una API robusta orientada a
+            objetos y una interfaz de usuario fluida, reactiva y de alto rendimiento.</p>
+        <p>
+            <strong>Tecnologías usadas:</strong><br>
+            🔹 <em>Frontend:</em> <code>React 19</code>, <code>TypeScript</code>, <code>Tailwind CSS</code>,
+            <code>Vite</code>, <code>React Router DOM v7</code>, <code>Axios</code>.<br>
+            🔹 <em>Backend & DB:</em> <code>Node.js</code>, <code>Express</code>, <code>TypeScript</code>,
+            <code>TypeORM</code>, <code>PostgreSQL</code>, <code>Docker</code>, <code>Docker Compose</code>.
+        </p>
+        <p><strong>Funcionalidades principales:</strong></p>
+        <ul>
+            <li>Estructura modular basada en el patrón <strong>Controlador-Servicio</strong> para la gestión avanzada
+                (CRUD) de productos, categorías y empleados.</li>
+            <li>Módulo de autenticación segura mediante tokens <strong>JWT</strong>.</li>
+            <li>Sistema de <strong>bitácora y auditoría</strong> de acciones.</li>
+            <li>Automatización en base de datos mediante <strong>triggers, procedimientos almacenados y vistas
+                    nativas</strong> en PostgreSQL.</li>
+            <li>Carga masiva y lectura de reportes en <strong>Excel (xlsx)</strong> y notificaciones con
+                <strong>Nodemailer</strong>.</li>
+            <li>Vista pública responsiva (<code>/store</code>) optimizada para la interacción del cliente final.</li>
+        </ul>
     </li>
+    <br><br>
     <li>
-        <a href="https://texastrailerscrweb.web.app/" target="_blank"><strong>Texas Trailers CR - Digital
-                Ecosystem</strong></a><br>
-        <strong>Descripción:</strong> Solución digital integral e híbrida (B2C y B2B) para la modernización operativa de
-        una empresa de importación y venta de remolques en Costa Rica. Centraliza el inventario físico y los canales
-        digitales mediante una arquitectura desacoplada basada en el patrón BaaS (Backend-as-a-Service), eliminando la
-        inconsistencia de stock entre los patios de venta y la web.<br>
-        <strong>Tecnologías usadas:</strong>
-        <em>Web (Cliente):</em> React 18, TypeScript, Tailwind CSS, Vite y React Router DOM v6.
-        <em>Infraestructura Cloud:</em> Firebase (Cloud Firestore, Authentication, Storage y Hosting).
-        <em>Móvil (Staff):</em> Android Nativo y Kotlin.<br>
-        <strong>Funcionalidades principales:</strong>
-        Catálogo público web de alto rendimiento optimizado con sistemas de filtrado avanzado para clientes finales;
-        sincronización e integración NoSQL en tiempo real para reflejar cambios de stock instantáneamente; panel
-        administrativo móvil nativo para la actualización de precios y carga directa de fotografías desde el muelle al
-        recibir contenedores; autenticación segura de usuarios; y almacenamiento estructurado de archivos multimedia en
-        la nube.
-        <br>
+        <h4><a href="https://texastrailerscrweb.web.app/" target="_blank">Texas Trailers CR - Digital Ecosystem</a></h4>
+        <p><strong>Descripción:</strong> Solución digital integral e híbrida (B2C y B2B) para la modernización operativa
+            de una empresa de importación y venta de remolques en Costa Rica. Centraliza el inventario físico y los
+            canales digitales mediante una arquitectura desacoplada basada en el patrón BaaS (Backend-as-a-Service),
+            eliminando la inconsistencia de stock entre los patios de venta y la web.</p>
+        <p>
+            <strong>Tecnologías usadas:</strong><br>
+            🔹 <em>Web (Cliente):</em> <code>React 18</code>, <code>TypeScript</code>, <code>Tailwind CSS</code>,
+            <code>Vite</code>, <code>React Router DOM v6</code>.<br>
+            🔹 <em>Infraestructura Cloud:</em> <code>Firebase</code> (Firestore, Auth, Storage, Hosting).<br>
+            🔹 <em>Móvil (Staff):</em> <code>Android Nativo</code>, <code>Kotlin</code>.
+        </p>
+        <p><strong>Funcionalidades principales:</strong></p>
+        <ul>
+            <li>Catálogo público web de alto rendimiento con sistemas de <strong>filtrado avanzado</strong> para
+                clientes finales.</li>
+            <li>Sincronización e integración NoSQL en <strong>tiempo real</strong> para reflejar cambios de stock
+                instantáneamente.</li>
+            <li>Panel administrativo móvil nativo en <strong>Kotlin</strong> para la actualización de precios y carga
+                directa de fotografías desde el muelle de carga.</li>
+            <li>Autenticación segura de usuarios y almacenamiento estructurado de archivos multimedia en la nube.</li>
+        </ul>
     </li>
+    <br><br>
     <li>
-        <a href="https://kalova-898bf.web.app/" target="_blank"><strong>Kalova — Ecosistema Digital y Plataforma Web
-                Serverless</strong></a><br>
-        <strong>Descripción:</strong> Plataforma web híbrida a la medida diseñada para una marca de arte mural y
-        productos decorativos. El sistema unifica de extremo a extremo un catálogo digital público enfocado en la
-        conversión, un motor inteligente de cotización multi-step y un backoffice administrativo robusto para la gestión
-        operativa y comercial del negocio bajo una arquitectura completamente serverless.<br>
-        <strong>Tecnologías usadas:</strong> React 19, Vite, Tailwind CSS, React Router DOM v7 y el ecosistema completo
-        de Firebase (Cloud Firestore, Authentication, Cloud Storage, Hosting y Cloud Functions).<br>
-        <strong>Funcionalidades principales:</strong>
-        Catálogo dinámico público con componentes interactivos avanzadas (showcase de video en carrusel 3D Coverflow y
-        galerías estructuradas en Bento Grid); asistente inteligente de cotización (Wizard modular paso a paso) con
-        validación estricta de datos, previsualización de archivos y carga optimizada de imágenes en la nube; panel de
-        control administrativo protegido mediante roles de seguridad (RBAC) con reglas perimetrales en Firestore; módulo
-        CRUD completo para la administración autónoma de inventarios, combos y contenidos (CMS ligero); automatización
-        vía Cloud Functions para el procesamiento de imágenes (thumbnails) y notificaciones de correo electrónico
-        transaccionales; e integraciones fluidas con plantillas dinámicas para el seguimiento y cierre comercial vía
-        WhatsApp.
-        <br>
+        <h4><a href="https://kalova-898bf.web.app/" target="_blank">Kalova — Ecosistema Digital y Plataforma Web
+                Serverless</a></h4>
+        <p><strong>Descripción:</strong> Plataforma web híbrida a la medida diseñada para una marca de arte mural y
+            productos decorativos. El sistema unifica de extremo a extremo un catálogo digital público enfocado en la
+            conversión, un motor inteligente de cotización multi-step y un backoffice administrativo robusto para la
+            gestión operativa y comercial del negocio bajo una arquitectura completamente serverless.</p>
+        <p>
+            <strong>Tecnologías usadas:</strong><br>
+            🔹 <code>React 19</code>, <code>Vite</code>, <code>Tailwind CSS</code>, <code>React Router DOM v7</code>,
+            <code>Firebase</code> (Firestore, Auth, Storage, Hosting, Cloud Functions).
+        </p>
+        <p><strong>Funcionalidades principales:</strong></p>
+        <ul>
+            <li>Catálogo dinámico público con showcase de video en <strong>carrusel 3D Coverflow</strong> y galerías en
+                <strong>Bento Grid</strong>.</li>
+            <li>Asistente inteligente de cotización (<strong>Wizard modular paso a paso</strong>) con validación
+                estricta de datos y carga optimizada de imágenes.</li>
+            <li>Panel de control administrativo protegido mediante roles de seguridad (<strong>RBAC</strong>) con reglas
+                perimetrales en Firestore.</li>
+            <li>Módulo CRUD completo para la administración autónoma de inventarios, combos y contenidos (<strong>CMS
+                    ligero</strong>).</li>
+            <li>Automatización vía <strong>Cloud Functions</strong> para el procesamiento de imágenes (thumbnails) y
+                correos transaccionales.</li>
+            <li>Integraciones fluidas con plantillas dinámicas para el seguimiento comercial vía
+                <strong>WhatsApp</strong>.</li>
+        </ul>
     </li>
 </ul>
-
-<br>
 
 <img src="divider.svg" width="100%">
 
 <h3 align="center">📊 GitHub Contributions</h3>
 
 <div align="center">
+    <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" style="max-width: 650px;" />
+    <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=LoesssLR&show_icons=true&theme=tokyonight&cache_seconds=1800"
         width="425" />
     <br><br>
