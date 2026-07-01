@@ -133,86 +133,90 @@
 
 <img src="divider.svg" width="100%">
 
-<h3 align="center">💼 Proyectos destacados.</h3>
+<h3 align="center">💼 Featured Projects.</h3>
 
 <ul>
     <li>
-        <h4>Punto de Venta (POS) - Multiservicios Ases y Reyes</h4>
-        <p><strong>Descripción:</strong> Sistema web integral y full-stack diseñado bajo una arquitectura completamente
-            desacoplada para la automatización de flujos de venta, control logístico de inventarios y administración de
-            personal. El ecosistema separa limpiamente las responsabilidades mediante una API robusta orientada a
-            objetos y una interfaz de usuario fluida, reactiva y de alto rendimiento.</p>
+        <h4>Point of Sale (POS) - Multiservicios Ases y Reyes</h4>
+        <p><strong>Description:</strong> Comprehensive full-stack web system designed under a fully
+            decoupled architecture for sales flow automation, inventory logistics control, and staff
+            management. The ecosystem cleanly separates concerns through a robust object-oriented
+            API and a fluid, reactive, high-performance user interface.</p>
         <p>
-            <strong>Tecnologías usadas:</strong><br>
+            <strong>Technologies used:</strong><br>
             🔹 <em>Frontend:</em> <code>React 19</code>, <code>TypeScript</code>, <code>Tailwind CSS</code>,
             <code>Vite</code>, <code>React Router DOM v7</code>, <code>Axios</code>.<br>
             🔹 <em>Backend & DB:</em> <code>Node.js</code>, <code>Express</code>, <code>TypeScript</code>,
             <code>TypeORM</code>, <code>PostgreSQL</code>, <code>Docker</code>, <code>Docker Compose</code>.
         </p>
-        <p><strong>Funcionalidades principales:</strong></p>
+        <p><strong>Key features:</strong></p>
         <ul>
-            <li>Estructura modular basada en el patrón <strong>Controlador-Servicio</strong> para la gestión avanzada
-                (CRUD) de productos, categorías y empleados.</li>
-            <li>Módulo de autenticación segura mediante tokens <strong>JWT</strong>.</li>
-            <li>Sistema de <strong>bitácora y auditoría</strong> de acciones.</li>
-            <li>Automatización en base de datos mediante <strong>triggers, procedimientos almacenados y vistas
-                    nativas</strong> en PostgreSQL.</li>
-            <li>Carga masiva y lectura de reportes en <strong>Excel (xlsx)</strong> y notificaciones con
-                <strong>Nodemailer</strong>.</li>
-            <li>Vista pública responsiva (<code>/store</code>) optimizada para la interacción del cliente final.</li>
+            <li>Modular structure based on the <strong>Controller-Service</strong> pattern for advanced
+                management (CRUD) of products, categories, and employees.</li>
+            <li>Secure authentication module using <strong>JWT</strong> tokens.</li>
+            <li>Activity <strong>logging and auditing</strong> system.</li>
+            <li>Database automation using <strong>triggers, stored procedures, and native views</strong> in PostgreSQL.</li>
+            <li>Bulk loading and report reading in <strong>Excel (xlsx)</strong> and notifications with
+                <strong>Nodemailer</strong>.
+            </li>
+            <li>Responsive public view (<code>/store</code>) optimized for end-customer interaction.</li>
         </ul>
     </li>
     <br>
     <li>
-        <h4><a href="https://texastrailerscrweb.web.app/" target="_blank">Texas Trailers CR - Digital Ecosystem ↗️</a></h4>
-        <p><strong>Descripción:</strong> Solución digital integral e híbrida (B2C y B2B) para la modernización operativa
-            de una empresa de importación y venta de remolques en Costa Rica. Centraliza el inventario físico y los
-            canales digitales mediante una arquitectura desacoplada basada en el patrón BaaS (Backend-as-a-Service),
-            eliminando la inconsistencia de stock entre los patios de venta y la web.</p>
+        <h4><a href="https://texastrailerscrweb.web.app/" target="_blank">Texas Trailers CR - Digital Ecosystem ↗️</a>
+        </h4>
+        <p><strong>Description:</strong> Comprehensive hybrid digital solution (B2C and B2B) for the operational
+            modernization of a trailer import and sales company in Costa Rica. It centralizes physical inventory
+            and digital channels using a decoupled architecture based on the BaaS (Backend-as-a-Service) pattern,
+            eliminating stock inconsistency between sales yards and the website.</p>
         <p>
-            <strong>Tecnologías usadas:</strong><br>
-            🔹 <em>Web (Cliente):</em> <code>React 18</code>, <code>TypeScript</code>, <code>Tailwind CSS</code>,
+            <strong>Technologies used:</strong><br>
+            🔹 <em>Web (Client):</em> <code>React 18</code>, <code>TypeScript</code>, <code>Tailwind CSS</code>,
             <code>Vite</code>, <code>React Router DOM v6</code>.<br>
-            🔹 <em>Infraestructura Cloud:</em> <code>Firebase</code> (Firestore, Auth, Storage, Hosting).<br>
-            🔹 <em>Móvil (Staff):</em> <code>Android Nativo</code>, <code>Kotlin</code>.
+            🔹 <em>Cloud Infrastructure:</em> <code>Firebase</code> (Firestore, Auth, Storage, Hosting).<br>
+            🔹 <em>Mobile (Staff):</em> <code>Android Native</code>, <code>Kotlin</code>.
         </p>
-        <p><strong>Funcionalidades principales:</strong></p>
+        <p><strong>Key features:</strong></p>
         <ul>
-            <li>Catálogo público web de alto rendimiento con sistemas de <strong>filtrado avanzado</strong> para
-                clientes finales.</li>
-            <li>Sincronización e integración NoSQL en <strong>tiempo real</strong> para reflejar cambios de stock
-                instantáneamente.</li>
-            <li>Panel administrativo móvil nativo en <strong>Kotlin</strong> para la actualización de precios y carga
-                directa de fotografías desde el muelle de carga.</li>
-            <li>Autenticación segura de usuarios y almacenamiento estructurado de archivos multimedia en la nube.</li>
+            <li>High-performance public web catalog with <strong>advanced filtering</strong> systems for
+                end customers.</li>
+            <li>Real-time NoSQL <strong>synchronization and integration</strong> to reflect stock changes
+                instantly.</li>
+            <li>Native mobile administrative panel in <strong>Kotlin</strong> for price updates and direct
+                photo uploads from the loading dock.</li>
+            <li>Secure user authentication and structured storage of multimedia files in the cloud.</li>
         </ul>
     </li>
     <br>
     <li>
-        <h4><a href="https://kalova-898bf.web.app/" target="_blank">Kalova — Ecosistema Digital y Plataforma Web Serverless ↗️</a></h4>
-        <p><strong>Descripción:</strong> Plataforma web híbrida a la medida diseñada para una marca de arte mural y
-            productos decorativos. El sistema unifica de extremo a extremo un catálogo digital público enfocado en la
-            conversión, un motor inteligente de cotización multi-step y un backoffice administrativo robusto para la
-            gestión operativa y comercial del negocio bajo una arquitectura completamente serverless.</p>
+        <h4><a href="https://kalova-898bf.web.app/" target="_blank">Kalova — Digital Ecosystem and Serverless Web
+                Platform ↗️</a></h4>
+        <p><strong>Description:</strong> Custom hybrid web platform designed for a wall art and decorative
+            products brand. The system unifies end-to-end a conversion-focused public digital catalog, an
+            intelligent multi-step quoting engine, and a robust administrative backoffice for operational
+            and commercial business management under a fully serverless architecture.</p>
         <p>
-            <strong>Tecnologías usadas:</strong><br>
+            <strong>Technologies used:</strong><br>
             🔹 <code>React 19</code>, <code>Vite</code>, <code>Tailwind CSS</code>, <code>React Router DOM v7</code>,
             <code>Firebase</code> (Firestore, Auth, Storage, Hosting, Cloud Functions).
         </p>
-        <p><strong>Funcionalidades principales:</strong></p>
+        <p><strong>Key features:</strong></p>
         <ul>
-            <li>Catálogo dinámico público con showcase de video en <strong>carrusel 3D Coverflow</strong> y galerías en
-                <strong>Bento Grid</strong>.</li>
-            <li>Asistente inteligente de cotización (<strong>Wizard modular paso a paso</strong>) con validación
-                estricta de datos y carga optimizada de imágenes.</li>
-            <li>Panel de control administrativo protegido mediante roles de seguridad (<strong>RBAC</strong>) con reglas
-                perimetrales en Firestore.</li>
-            <li>Módulo CRUD completo para la administración autónoma de inventarios, combos y contenidos (<strong>CMS
-                    ligero</strong>).</li>
-            <li>Automatización vía <strong>Cloud Functions</strong> para el procesamiento de imágenes (thumbnails) y
-                correos transaccionales.</li>
-            <li>Integraciones fluidas con plantillas dinámicas para el seguimiento comercial vía
-                <strong>WhatsApp</strong>.</li>
+            <li>Dynamic public catalog with a 3D Coverflow <strong>carousel video showcase</strong> and galleries in
+                <strong>Bento Grid</strong>.
+            </li>
+            <li>Intelligent quoting assistant (<strong>modular step-by-step wizard</strong>) with strict data
+                validation and optimized image uploads.</li>
+            <li>Administrative control panel protected by role-based access control (<strong>RBAC</strong>) with security
+                rules in Firestore.</li>
+            <li>Complete CRUD module for autonomous management of inventories, packages, and content (<strong>lightweight
+                    CMS</strong>).</li>
+            <li>Automation via <strong>Cloud Functions</strong> for image processing (thumbnails) and
+                transactional emails.</li>
+            <li>Seamless integrations with dynamic templates for sales follow-ups via
+                <strong>WhatsApp</strong>.
+            </li>
         </ul>
     </li>
 </ul>
