@@ -33,7 +33,7 @@
 
   <!-- Footer Quote Text -->
   <text x="500" y="56" fill="#39FF14" class="term-text" font-size="20" text-anchor="middle" filter="url(#glow)">
-    «La mejor manera de predecir el futuro es creándolo» — Peter Drucker. <tspan fill="#39FF14" class="cursor-blink">█</tspan>
+    "The best way to predict the future is to create it" — Peter Drucker. <tspan fill="#39FF14" class="cursor-blink">█</tspan>
   </text>
 
   <!-- CRT Scanlines overlay -->

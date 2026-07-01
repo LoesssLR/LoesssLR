@@ -59,9 +59,9 @@
     <tspan fill="#98c379">welcome.txt</tspan>
   </text>
 
-  <!-- Line 2: Hi there... 👋 -->
+  <!-- Line 2: Hi there... -->
   <text x="45" y="132" fill="#39FF14" class="term-text" font-size="28" font-weight="bold" filter="url(#glow)">
-    Hi there... 👋
+    Hi there...
   </text>
 
   <!-- Line 3: whoami -->
@@ -70,9 +70,9 @@
     <tspan fill="#56b6c2">whoami</tspan>
   </text>
 
-  <!-- Line 4: I'm Alejandro López. 💻 -->
+  <!-- Line 4: Alejandro López -->
   <text x="45" y="217" fill="#39FF14" class="term-text" font-size="28" font-weight="bold" filter="url(#glow)">
-    I'm Alejandro López. 💻
+    Alejandro López
   </text>
 
   <!-- Line 5: Active cursor -->
