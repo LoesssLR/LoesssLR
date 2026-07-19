@@ -19,7 +19,7 @@
 <br>
 <div align="center">
     <p align="center">
-        <a href="https://youtu.be/JMoA2fwmJuI?si=KUzpJw9yDcZ62gVm" target="_blank">
+        <a href="docs/Luis_Alejandro_Lopez_Reyes_CV_TI_ENG.pdf" target="_blank">
             <img src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
                 alt="Download CV" width="150" height="35" />
         </a>
