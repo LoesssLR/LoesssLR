@@ -18,7 +18,6 @@
 </p>
 
 <div align="center">
-    <h3>CV & Portfolio.</h3>
     <p align="center">
         <a href="https://youtu.be/JMoA2fwmJuI?si=KUzpJw9yDcZ62gVm" target="_blank">
             <img src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
