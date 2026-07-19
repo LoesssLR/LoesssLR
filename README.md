@@ -16,7 +16,7 @@
     <br>
     2026 Goal: Build impactful projects and expand my portfolio.
 </p>
-</a>
+<br>
 <div align="center">
     <p align="center">
         <a href="https://youtu.be/JMoA2fwmJuI?si=KUzpJw9yDcZ62gVm" target="_blank">
