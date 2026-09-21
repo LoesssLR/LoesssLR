@@ -8,13 +8,13 @@
 
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+I'm+a+Full+Stack+Developer.">
+        src="https://readme-typing-svg.demolab.com?font=ROBOT&duration=4000&size=20&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+Cybersecurity+%26+Network+Enthusiast+%7C+Software+%26+Systems+Background.">
 </p>
 
 <p align="center">
     Passionate about learning and continuous improvement through hands-on experience.
     <br>
-    2026 Goal: Build impactful projects and expand my portfolio.
+    2027 Goal: Grow in Blue Team &amp; SOC — expand my home lab, earn certifications, and document real defensive security projects.
 </p>
 <br>
 <div align="center">
@@ -114,6 +114,75 @@
         alt="VirtualBox" />
 </div>
 
+<h3 align="left">Security & Networking.</h3>
+<div align="left">
+    <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" alt="Nmap" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"
+        alt="Wireshark" />
+    <img src="https://img.shields.io/badge/NetworkMiner-6CBB3C?style=for-the-badge&logoColor=white"
+        alt="NetworkMiner" />
+    <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"
+        alt="VirusTotal" />
+    <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=white" alt="SQLmap" />
+    <img src="https://img.shields.io/badge/Hydra-ED6D20?style=for-the-badge&logoColor=white" alt="Hydra" />
+    <br>
+    <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white"
+        alt="OpenSSL" />
+    <img src="https://img.shields.io/badge/IPTables-FF3030?style=for-the-badge&logoColor=white" alt="IPTables" />
+    <img src="https://img.shields.io/badge/Fail2Ban-22B500?style=for-the-badge&logoColor=white" alt="Fail2Ban" />
+    <img src="https://img.shields.io/badge/Sysmon-2476C0?style=for-the-badge&logoColor=white" alt="Sysmon" />
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"
+        alt="Apache" />
+    <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"
+        alt="FileZilla" />
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"
+        alt="PowerShell" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"
+        alt="Bash" />
+</div>
+
+<br>
+
+<img src="divider.svg" width="100%">
+
+<h3 align="center">Security & Networking Labs.</h3>
+
+<p align="center">
+    Hands-on <strong>Blue Team</strong> and <strong>Cloud Defense</strong> labs — detection engineering, host
+    hardening, and adversary emulation documented end-to-end with MITRE ATT&amp;CK mapping.
+</p>
+
+<ul>
+    <li>
+        <h4><a href="https://github.com/LoesssLR/Cybersecurity-Ransomware-Detection-Lab" target="_blank">Cybersecurity
+                Ransomware Detection Lab</a></h4>
+        <p><strong>Description:</strong> Heuristic ransomware simulation and autonomous containment engine analyzing
+            Shannon entropy, filesystem deltas, and process I/O with MITRE ATT&amp;CK mapping (T1486).</p>
+    </li>
+    <br>
+    <li>
+        <h4><a href="https://github.com/LoesssLR/IPtables-Attack-Detector" target="_blank">IPTables Attack Detector</a>
+        </h4>
+        <p><strong>Description:</strong> Automated real-time log analysis daemon and dynamic iptables mitigation
+            engine with JSONL logging for SIEM integration.</p>
+    </li>
+    <br>
+    <li>
+        <h4><a href="https://github.com/LoesssLR/Linux-C2-Egress-Hardening" target="_blank">Linux C2 Egress
+                Hardening</a></h4>
+        <p><strong>Description:</strong> Adversary emulation and Linux host hardening lab: egress filtering controls,
+            live socket auditing, and /proc memory triage against a C2 reverse shell.</p>
+    </li>
+    <br>
+    <li>
+        <h4><a href="https://github.com/LoesssLR/Aws-S3-Exfiltration-Detection" target="_blank">AWS S3 Exfiltration
+                Detection</a></h4>
+        <p><strong>Description:</strong> Cloud adversary emulation and detection lab: credential-less exfiltration to
+            AWS S3 via API Gateway and Lambda pre-signed URLs, CloudFormation IaC, and CloudTrail/GuardDuty telemetry.
+        </p>
+    </li>
+</ul>
+
 <br>
 
 <img src="divider.svg" width="100%">
@@ -161,8 +230,12 @@
         <ul>
             <li>Modular structure based on the <strong>Controller-Service</strong> pattern for advanced
                 management (CRUD) of products, categories, and employees.</li>
-            <li>Secure authentication module using <strong>JWT</strong> tokens.</li>
-            <li>Activity <strong>logging and auditing</strong> system.</li>
+            <li>Secure authentication with <strong>JWT</strong> token lifecycle management (signing, expiry, and
+                refresh).</li>
+            <li>SOC-oriented <strong>activity logging and auditing</strong> system for full user-action traceability.
+            </li>
+            <li><strong>Input validation</strong> and role-based access control (<strong>RBAC</strong>) across
+                sensitive endpoints.</li>
             <li>Database automation using <strong>triggers, stored procedures, and native views</strong> in PostgreSQL.
             </li>
             <li>Bulk loading and report reading in <strong>Excel (xlsx)</strong> and notifications with
@@ -194,7 +267,8 @@
                 instantly.</li>
             <li>Native mobile administrative panel in <strong>Kotlin</strong> for price updates and direct
                 photo uploads from the loading dock.</li>
-            <li>Secure user authentication and structured storage of multimedia files in the cloud.</li>
+            <li><strong>Identity management and BaaS security</strong> (Firebase Auth) with granular access rules for
+                structured cloud storage of multimedia files.</li>
         </ul>
     </li>
     <br>
@@ -217,14 +291,13 @@
             </li>
             <li>Intelligent quoting assistant (<strong>modular step-by-step wizard</strong>) with strict data
                 validation and optimized image uploads.</li>
-            <li>Administrative control panel protected by role-based access control (<strong>RBAC</strong>) with
-                security
-                rules in Firestore.</li>
+            <li>Administrative control panel protected by <strong>granular Firestore Security Rules</strong> and
+                role-based access control (<strong>RBAC</strong>).</li>
             <li>Complete CRUD module for autonomous management of inventories, packages, and content
                 (<strong>lightweight
                     CMS</strong>).</li>
-            <li>Automation via <strong>Cloud Functions</strong> for image processing (thumbnails) and
-                transactional emails.</li>
+            <li>Serverless automation via <strong>Cloud Functions</strong> with least-privilege execution for image
+                processing and transactional emails.</li>
             <li>Seamless integrations with dynamic templates for sales follow-ups via
                 <strong>WhatsApp</strong>.
             </li>
@@ -269,10 +342,6 @@
     <a href="https://www.linkedin.com/in/alelopezreyes" target="_blank">
         <img align="center" alt="Alejandro López | Linkedin" width="24px"
             src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-    </a> &nbsp;&nbsp;
-    <a href="https://www.instagram.com/luisale___/" target="_blank">
-        <img align="center" alt="Alejandro López | Instagram" width="24px"
-            src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
     </a> &nbsp;&nbsp;
 </p>
 

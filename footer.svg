@@ -32,8 +32,8 @@
   <path d="M 1,0 L 999,0 L 999,79 A 19,19 0 0,1 980,98 L 20,98 A 19,19 0 0,1 1,79 Z" fill="#07090e" stroke="#39FF14" stroke-width="1.5" opacity="0.95" />
 
   <!-- Footer Quote Text -->
-  <text x="500" y="56" fill="#39FF14" class="term-text" font-size="20" text-anchor="middle" filter="url(#glow)">
-    "The best way to predict the future is to create it" — Peter Drucker. <tspan fill="#39FF14" class="cursor-blink">█</tspan>
+  <text x="500" y="56" fill="#39FF14" class="term-text" font-size="17" text-anchor="middle" filter="url(#glow)">
+    "You cannot protect what you cannot see; visibility is the prerequisite for defense." <tspan fill="#39FF14" class="cursor-blink">█</tspan>
   </text>
 
   <!-- CRT Scanlines overlay -->
